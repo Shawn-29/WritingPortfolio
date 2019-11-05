@@ -1,6 +1,6 @@
 # Shawn Fenner - Writing Portfolio
 
-This repository contains five directories, each containing several written compositions from my academic career. All files are in Word (.docx) format.
+This repository contains five directories, each containing one or more written compositions from my academic career. All files are in Word (.docx) format.
 
 ## Progress Reports
 During the summer semester of my senior year in college, I developed a video game in the Python Programming language. This directory contains my initial proposition for the project (CourseThoughts.docx), including project functionality, why I chose Python, learning objectives, and links to numerous resources.
@@ -18,6 +18,10 @@ My research topic involved the ongoing concern of mobile data privacy. Included 
 An SRS document detailing project scope, business requirements, use cases, and hardware dependencies for the mobile book database management application, "Turbo Book Manager."
 
 ## Technical Writing Documents
+* Analysis
+* Recommendation
+* Progress Report
+* Final Report
 
 ## Essay on Renewable Energy
 An in-depth discussion on climate change and how renewable solar can help us in meeting our energy needs and maintaining the environment. Advantages and drawbacks of various solar energy technologies are researched and documented.
