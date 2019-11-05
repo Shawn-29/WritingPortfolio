@@ -7,11 +7,11 @@ During the summer semester of my senior year in college, I developed a video gam
 
 Also included are three different progress reports, which I wrote to document the project's status as its development progressed. Each report also details Python-related concepts I learned during the semester and code samples I wrote to demonstrate my understanding using them.
 
-## Research
-My research topic involved the ongoing concern of mobile data privacy. Included herin are an annotated bibliography, an argument essay, and a final research report.
+## Research Papers
+My research topic involved the ongoing concern of mobile data privacy. Included herin are an annotated bibliography, an argument essay, and a final research report. The annotated bibliography includes sources gathered from numerous reputable database catalogs and explains each source's premise and usefulness.
 
 ## Software Requirements Specification (SRS) Document
 An SRS document detailing project scope, business requirements, use cases, and hardware dependencies for the mobile book database management application, "Turbo Book Manager."
 
-## Technical Writing
+## Technical Writing Documents
 
