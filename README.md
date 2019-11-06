@@ -16,7 +16,7 @@ The annotated bibliography includes sources gathered from numerous reputable dat
 An SRS document detailing project scope, business requirements, use cases, and hardware dependencies for the mobile book database management application, "Turbo Book Manager."
 
 ## Technical Writing Documents
-* Analysis - examines Consumer Report's  review of several different brands of televisions and the methodology used.
+* Analysis - examines Consumer Report's review of several different brands of televisions and their methodology, including salient points.
 * Recommendation - persuades a major corporation not to file suit against Consumer Reports, despite receiving a low-rated review.
 * Progress Report - documents progress regarding a proposal's status, including work remaining and additional research.
 * Final Report - an in-depth document which clearly presents all factors of a drawing improvement course for a client. Includes a letter of transmittal, executive summary, scope of research, technique guide, four-week schedule, and outcomes.
