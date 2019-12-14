@@ -1,6 +1,9 @@
 # Shawn Fenner - Writing Portfolio
 
-This repository contains five directories, each containing one or more written compositions from my academic career. All files are in Word (.docx) format.
+This repository contains six directories, each containing one or more written compositions from my academic career. All files are in Word (.docx) format.
+
+## *** *NEW!* *** Level Editor - User Manual
+During my academic career, I programmed a level editor to allow me to quickly lay out level designs for a future mobile application. Presented here is a detailed guide for that editor which introduces its features and how to use them effectively. Numerous tips and images help users quickly grasp the material and become proficient in using the editor. 
 
 ## Progress Reports
 During the summer semester of my senior year in college, I developed a video game in the Python Programming language. This directory contains my initial proposition for the project (CourseThoughts.docx), including project functionality, why I chose Python, learning objectives, and links to numerous resources.
