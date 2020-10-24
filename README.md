@@ -16,7 +16,7 @@ My research topic involved the ongoing concern of mobile data privacy. Included 
 The annotated bibliography includes sources gathered from numerous reputable database catalogs and explains each source's premise and usefulness.
 
 ## Software Requirements Specification (SRS) Document
-An SRS document detailing project scope, business requirements, use cases, and hardware dependencies for the mobile book database management application, "Turbo Book Manager."
+An SRS document detailing project scope, business requirements, use cases, and hardware dependencies for the mobile book database management application ("Turbo Book Manager") I developed with a fellow student over a semester.
 
 ## Technical Writing Documents
 * Analysis - examines Consumer Report's review of several different brands of televisions and their methodology, including salient points.
